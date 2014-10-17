@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[iou:home|Door43 (iou)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-iou|d43-iou repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-iou/archive/master.zip|d43-iou.zip]]
+
+**Recent Changes**
+{{changes>ns = iou}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/iou|Ethnologue data]]
+
